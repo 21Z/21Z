@@ -1,4 +1,4 @@
-Hi there 👋
+# Hi there 👋
 
 # Discord
 [![](https://cdn.discordapp.com/attachments/794087143244431370/823885208872681492/Annotation_2021-03-23_154449.png)](https://discord.gg/Ub2wqUTpyZ)
