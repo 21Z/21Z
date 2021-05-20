@@ -7,4 +7,4 @@
 # Stats
 ![21Z](https://github-readme-stats.vercel.app/api?username=21Z&show_icons=true&theme=tokyonight&hide=issues)
 
-![21Z](https://github-readme-stats.vercel.app/api/top-langs?username=21Zshow_icons=true&theme=tokyonight&layout=compact)
+![21Z](https://github-readme-stats.vercel.app/api/top-langs?username=21Z&show_icons=true&theme=tokyonight&layout=compact)
