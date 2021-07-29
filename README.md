@@ -1,7 +1,7 @@
 # Hi there 👋
 
 # Links
-- [Instagram](https://instagram.com/_.hamdan21/
+- [Instagram](https://instagram.com/_.hamdan21/)
 - [Spotify](https://open.spotify.com/user/mda55xdknn3cixl4349ouf7cf)
 
 # Stats
