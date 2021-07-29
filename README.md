@@ -1,8 +1,8 @@
 # Hi there 👋
 
 # Links
-- **[Discord](https://discord.gg/Ub2wqUTpyZ)**
-- **[Youtube](https://www.youtube.com/channel/UCyidJs1p5XSDJvS8IGqLeug)**
+- [Instagram](https://instagram.com/_.hamdan21/
+- [Spotify](https://open.spotify.com/user/mda55xdknn3cixl4349ouf7cf)
 
 # Stats
 ![21Z](https://github-readme-stats.vercel.app/api?username=21Z&show_icons=true&theme=tokyonight&hide=issues)
