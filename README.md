@@ -4,9 +4,7 @@ I'm a random person who likes to do nothing.
 
 ### Contact me:
 
-![Discord](https://discordapp.com/api/guilds/899259276806213643/widget.png?style=banner1)
-
-<br />
+![Discord](https://discordapp.com/api/guilds/899259276806213643/widget.png?style=banner2)
 
 ### Languages:
 
