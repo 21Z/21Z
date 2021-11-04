@@ -4,8 +4,7 @@ I'm a random person who likes to do nothing.
 
 ### Contact me:
 
-[<img align="left" alt="21Z | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/512px-Instagram.svg.png" />][instagram]
-[<img align="left" alt="21Z | Discord" width="22px" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" />][discord]
+![Discord](https://discordapp.com/api/guilds/899259276806213643/widget.png?style=banner1)
 
 <br />
 
