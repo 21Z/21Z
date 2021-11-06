@@ -2,22 +2,14 @@
 
 I'm a random person who likes to do nothing.
 
-### Contact me:
-
-![Discord](https://discordapp.com/api/guilds/899259276806213643/widget.png?style=banner2)
-
-### Languages:
-
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
-
-<br />
+<a href="https://dsc.gg/21Z"><img src="https://img.shields.io/discord/899259276806213643?color=5865F2&logo=discord&logoColor=white" alt="Discord Server" /></a>
+<img src="https://badges.aleen42.com/src/javascript.svg">
 
 ---
 
 ### Github Stats:
 
   <img align="left" alt="21Z's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=21Z&theme=tokyonight&show_icons=true&hide_border=true" />
-
 
 [discord]: https://dsc.gg/21z
 [instagram]: https://instagram.com/xhamdan.x
