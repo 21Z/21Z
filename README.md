@@ -9,8 +9,9 @@ I'm a random person who likes to do nothing.
 
 ### Github Stats:
 
-  <img align="left" alt="21Z's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=21Z&theme=tokyonight&show_icons=true&hide_border=true" />
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=21Z&theme=tokyonight&hide_border&layout=compact)
+  [![Github Stats](https://github-readme-stats.vercel.app/api?username=21Z&theme=tokyonight&show_icons=true&hide_border=true)](https://bit.ly/21Z-github)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=21Z&theme=tokyonight&hide_border&layout=compact)](https://bit.ly/21Z-github)
+  
 [discord]: https://dsc.gg/21z
 [instagram]: https://instagram.com/xhamdan.x
 [nodejs]: https://nodejs.org/
