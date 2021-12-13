@@ -2,9 +2,8 @@
 
 I'm a random person who likes to do nothing.
 
-<a href="https://dsc.gg/21Z"><img src="https://img.shields.io/discord/899259276806213643?color=5865F2&logo=discord&logoColor=white" alt="Discord Server" /></a>
-<img src="https://badges.aleen42.com/src/javascript.svg">
-
+[![Discord-Logo-Light](https://discord.com/assets/9f6f9cd156ce35e2d94c0e62e3eff462.png#gh-dark-mode-only)](https://dsc.gg/21z)
+[![Discord-Logo-Dark](https://discord.com/assets/ca03beabe94d8f97ba6fbf75cbb695c4.png#gh-light-mode-only)](https://dsc.gg/21z)
 ---
 
 ### Github Stats:
