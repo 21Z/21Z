@@ -9,7 +9,7 @@ Join my Discord: [Click here](https://discord.gg/aMrNUfJZWJ)
 # Discord
 <p align="center">
    <a href="https://discord.com/users/780356848737058857">
-      <img src="https://lanyard.cnrad.dev/api/780356848737058857?animated=true&hideDiscrim=true&bg=010409" />
+      <img src="https://lanyard.cnrad.dev/api/780356848737058857?animated=true&hideDiscrim=true&bg=010409" data-verif="230293"/>
    </a>
 </p>
 
