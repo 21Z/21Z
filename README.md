@@ -1,6 +1,6 @@
 ### Hi there, I'm 21Z 👋
 
-I'm a random person who likes to do nothing.
+I'm a random person who likes to do random shit
 
 Join my Discord: [Click here](https://discord.gg/ksHApP35zQ)
 
