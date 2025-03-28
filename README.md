@@ -8,8 +8,8 @@ Join my Discord: [Click here](https://discord.gg/ksHApP35zQ)
 
 # Discord
 <p align="center">
-   <a href="https://discord.com/users/1042421679009308753">
-      <img src="https://lanyard.cnrad.dev/api/1042421679009308753?animated=true&hideDiscrim=true&bg=010409" data-verif="230293"/>
+   <a href="https://discord.com/users/1350435011509223464">
+      <img src="https://lanyard.cnrad.dev/api/1350435011509223464?animated=true&hideDiscrim=true&bg=010409" data-verif="230293"/>
    </a>
 </p>
 
